@@ -18,6 +18,5 @@ dist
 .idea
 .DS_Store
 
-dist
-archive
+
 .vscode
